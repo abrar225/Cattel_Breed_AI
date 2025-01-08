@@ -1,0 +1,1 @@
+- [2025-01-08T10:09:32] docs(changelog): update release notes and revision log
