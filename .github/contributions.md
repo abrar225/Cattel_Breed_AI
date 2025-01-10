@@ -91,3 +91,4 @@
 - [2025-01-03T16:09:08] fix: correct minor typo in logging output
 - [2025-01-09T09:04:06] perf: improve execution speed in hot paths
 - [2025-01-10T19:18:58] chore: update dependencies and environment config
+- [2025-01-10T21:05:32] fix: resolve edge cases in parameter validation
