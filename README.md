@@ -146,3 +146,4 @@ Do **not** rely on this tool for critical or official decision-making.
 
 This project is intended for **educational and research purposes**.  
 Reproduction or commercial use requires permission.
+- [2025-01-12T11:28:03] style: enhance README formatting and badge definitions
