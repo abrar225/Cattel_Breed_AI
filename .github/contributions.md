@@ -96,3 +96,4 @@
 - [2025-01-16T15:04:53] docs: clarify API usage examples in documentation
 - [2025-01-18T16:46:11] refactor: optimize internal helper functions
 - [2025-01-23T19:21:35] test: expand test coverage for utility modules
+- [2025-01-25T16:18:14] chore: update dependencies and environment config
