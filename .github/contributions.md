@@ -97,3 +97,4 @@
 - [2025-01-18T16:46:11] refactor: optimize internal helper functions
 - [2025-01-23T19:21:35] test: expand test coverage for utility modules
 - [2025-01-25T16:18:14] chore: update dependencies and environment config
+- [2025-01-28T15:11:34] fix: resolve edge cases in parameter validation
