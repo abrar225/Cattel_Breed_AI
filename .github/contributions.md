@@ -100,3 +100,4 @@
 - [2025-01-28T15:11:34] fix: resolve edge cases in parameter validation
 - [2025-01-29T14:13:07] refactor: optimize internal helper functions
 - [2025-01-30T10:34:30] fix: correct minor typo in logging output
+- [2025-01-30T18:15:55] docs: clarify API usage examples in documentation
