@@ -105,3 +105,4 @@
 - [2025-02-04T15:36:37] docs: update activity log and documentation
 - [2025-02-04T21:51:15] refactor: optimize internal helper functions
 - [2025-02-10T10:38:14] refactor: clean up unused variables and imports
+- [2025-02-14T10:08:49] test: expand test coverage for utility modules
