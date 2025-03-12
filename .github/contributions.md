@@ -110,3 +110,4 @@
 - [2025-02-27T19:38:36] docs: clarify API usage examples in documentation
 - [2025-03-05T17:10:53] docs: update activity log and documentation
 - [2025-03-11T11:20:01] docs: update activity log and documentation
+- [2025-03-12T18:46:30] chore: update configuration and build scripts
