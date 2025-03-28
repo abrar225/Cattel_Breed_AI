@@ -146,23 +146,4 @@ Do **not** rely on this tool for critical or official decision-making.
 
 This project is intended for **educational and research purposes**.  
 Reproduction or commercial use requires permission.
-- [2025-01-12T11:28:03] style: enhance README formatting and badge definitions
-- [2025-04-14T09:20:34] docs(readme): improve documentation notes and usage guidelines
-- [2025-06-30T21:56:22] docs(readme): improve documentation notes and usage guidelines
-- [2025-07-26T13:17:49] docs(readme): improve documentation notes and usage guidelines
-- [2025-08-25T11:33:54] docs(readme): improve documentation notes and usage guidelines
-- [2025-09-09T15:09:20] style: enhance README formatting and badge definitions
-- [2025-10-16T09:22:47] style: enhance README formatting and badge definitions
-- [2025-10-26T14:06:06] style: enhance README formatting and badge definitions
-- [2025-10-26T21:44:52] style: enhance README formatting and badge definitions
-- [2025-11-14T12:47:44] docs(readme): improve documentation notes and usage guidelines
-- [2026-02-17T19:03:44] docs(readme): improve documentation notes and usage guidelines
-- [2026-03-01T21:39:11] docs(readme): improve documentation notes and usage guidelines
-- [2026-03-23T16:42:24] docs(readme): improve documentation notes and usage guidelines
-- [2026-03-25T15:43:16] docs(readme): improve documentation notes and usage guidelines
-- [2026-03-26T09:17:43] style: enhance README formatting and badge definitions
-- [2026-04-10T18:16:30] docs(readme): improve documentation notes and usage guidelines
-- [2026-04-17T14:05:45] docs(readme): improve documentation notes and usage guidelines
-- [2026-05-12T11:01:18] docs(readme): improve documentation notes and usage guidelines
-- [2026-06-29T22:26:37] style: enhance README formatting and badge definitions
-- [2026-06-30T18:47:51] style: enhance README formatting and badge definitions
+<!-- [2025-03-28T17:54:00] style: improve formatting and badge alignment -->
