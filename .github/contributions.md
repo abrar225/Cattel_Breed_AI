@@ -114,3 +114,4 @@
 - [2025-03-17T11:04:19] feat: add utility methods for state management
 - [2025-03-24T16:23:41] fix: correct minor typo in logging output
 - [2025-03-24T16:47:35] docs: update activity log and documentation
+- [2025-04-03T20:54:24] fix: resolve edge cases in parameter validation
