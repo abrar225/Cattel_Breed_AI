@@ -120,3 +120,4 @@
 - [2025-04-23T18:47:04] refactor: clean up unused variables and imports
 - [2025-04-24T16:13:25] fix: correct minor typo in logging output
 - [2025-04-29T15:32:26] test: expand test coverage for utility modules
+- [2025-04-29T20:06:51] chore: update configuration and build scripts
