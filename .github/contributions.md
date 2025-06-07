@@ -136,3 +136,4 @@
 - [2025-06-05T17:34:51] fix: correct minor typo in logging output
 - [2025-06-05T19:32:46] refactor: clean up unused variables and imports
 - [2025-06-05T20:57:08] test: expand test coverage for utility modules
+- [2025-06-07T19:08:15] fix: resolve edge cases in parameter validation
