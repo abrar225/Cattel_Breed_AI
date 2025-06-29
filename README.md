@@ -150,3 +150,4 @@ Reproduction or commercial use requires permission.
 <!-- [2025-05-07T18:57:39] docs(readme): update project documentation and overview -->
 <!-- [2025-05-16T22:58:57] docs(readme): update project documentation and overview -->
 <!-- [2025-06-24T16:38:56] docs(readme): update project documentation and overview -->
+<!-- [2025-06-29T10:09:35] style: improve formatting and badge alignment -->
