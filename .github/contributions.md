@@ -145,3 +145,4 @@
 - [2025-07-07T14:07:24] chore: update dependencies and environment config
 - [2025-07-09T16:53:05] test: expand test coverage for utility modules
 - [2025-07-14T09:33:34] fix: correct minor typo in logging output
+- [2025-07-14T12:38:49] chore: update configuration and build scripts
