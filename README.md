@@ -149,3 +149,4 @@ Reproduction or commercial use requires permission.
 - [2025-01-12T11:28:03] style: enhance README formatting and badge definitions
 - [2025-04-14T09:20:34] docs(readme): improve documentation notes and usage guidelines
 - [2025-06-30T21:56:22] docs(readme): improve documentation notes and usage guidelines
+- [2025-07-26T13:17:49] docs(readme): improve documentation notes and usage guidelines
