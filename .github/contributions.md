@@ -1,0 +1,1 @@
+- [2025-08-08T16:01:22] fix: resolve edge cases in parameter validation
