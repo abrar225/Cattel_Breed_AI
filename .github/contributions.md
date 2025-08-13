@@ -1,1 +1,2 @@
 - [2025-08-08T16:01:22] fix: resolve edge cases in parameter validation
+- [2025-08-13T20:04:21] feat: add utility methods for state management
