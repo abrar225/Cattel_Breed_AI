@@ -2,3 +2,4 @@
 - [2025-08-13T20:04:21] feat: add utility methods for state management
 - [2025-08-19T18:51:24] chore: update dependencies and environment config
 - [2025-08-21T18:19:15] docs: clarify API usage examples in documentation
+- [2025-08-25T09:53:07] docs: clarify API usage examples in documentation
