@@ -4,3 +4,4 @@
 - [2025-08-21T18:19:15] docs: clarify API usage examples in documentation
 - [2025-08-25T09:53:07] docs: clarify API usage examples in documentation
 - [2025-08-25T20:17:49] fix: resolve edge cases in parameter validation
+- [2025-09-08T14:53:35] docs: update activity log and documentation
