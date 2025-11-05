@@ -22,3 +22,4 @@
 - [2025-10-24T16:46:07] docs: update activity log and documentation
 - [2025-10-31T15:16:18] fix: resolve edge cases in parameter validation
 - [2025-11-05T12:37:51] perf: improve execution speed in hot paths
+- [2025-11-05T17:05:53] docs: clarify API usage examples in documentation
