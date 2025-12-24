@@ -32,3 +32,4 @@
 - [2025-12-20T15:10:28] perf: improve execution speed in hot paths
 - [2025-12-20T21:57:08] docs: clarify API usage examples in documentation
 - [2025-12-22T18:49:38] refactor: optimize internal helper functions
+- [2025-12-24T20:48:42] fix: correct minor typo in logging output
