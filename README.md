@@ -119,7 +119,7 @@ This feedback helps guide future model improvements and dataset expansion.
 
 ## 🌐 Live Demo
 
-🔗 **Website:** https://firehox.co.in  
+🔗 **Website:** https://huggingface.co/spaces/abrar225/BreedAI
 🔗 **GitHub:** https://github.com/abrar225
 
 ---
