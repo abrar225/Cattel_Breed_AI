@@ -35,3 +35,4 @@
 - [2025-12-24T20:48:42] fix: correct minor typo in logging output
 - [2025-12-28T17:48:56] chore: update dependencies and environment config
 - [2026-01-09T09:16:43] refactor: clean up unused variables and imports
+- [2026-01-16T13:15:13] docs: clarify API usage examples in documentation
