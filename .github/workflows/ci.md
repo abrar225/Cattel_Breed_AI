@@ -4,3 +4,4 @@
 - [2025-09-18T14:05:21] ci: refine automated build workflow documentation
 - [2025-10-20T22:19:09] ci: refine automated build workflow documentation
 - [2026-01-14T17:49:06] ci: refine automated build workflow documentation
+- [2026-01-22T15:41:36] ci: refine automated build workflow documentation
