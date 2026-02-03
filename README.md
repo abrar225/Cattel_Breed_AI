@@ -154,3 +154,4 @@ Reproduction or commercial use requires permission.
 <!-- [2025-09-02T14:26:09] style: improve formatting and badge alignment -->
 <!-- [2025-10-15T10:32:22] docs(readme): update project documentation and overview -->
 <!-- [2025-12-20T09:53:00] docs(readme): update project documentation and overview -->
+<!-- [2026-02-03T09:12:30] docs(readme): update project documentation and overview -->
