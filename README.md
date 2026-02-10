@@ -159,3 +159,4 @@ Reproduction or commercial use requires permission.
 <!-- [2026-02-05T16:39:25] docs(readme): update project documentation and overview -->
 <!-- [2026-02-09T09:09:27] style: improve formatting and badge alignment -->
 <!-- [2026-02-09T10:20:34] style: improve formatting and badge alignment -->
+<!-- [2026-02-10T19:26:05] style: improve formatting and badge alignment -->
