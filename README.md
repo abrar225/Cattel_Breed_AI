@@ -162,3 +162,4 @@ Reproduction or commercial use requires permission.
 <!-- [2026-02-10T19:26:05] style: improve formatting and badge alignment -->
 <!-- [2026-02-23T16:28:45] style: improve formatting and badge alignment -->
 <!-- [2026-02-25T21:00:29] docs(readme): update project documentation and overview -->
+<!-- [2026-03-03T20:42:28] docs(readme): update project documentation and overview -->
