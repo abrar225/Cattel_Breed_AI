@@ -51,3 +51,4 @@
 - [2026-03-23T09:42:41] feat: add utility methods for state management
 - [2026-03-30T12:34:37] feat: add utility methods for state management
 - [2026-04-05T09:26:41] feat: add utility methods for state management
+- [2026-04-06T15:23:50] docs: clarify API usage examples in documentation
