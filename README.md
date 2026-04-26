@@ -166,3 +166,4 @@ Reproduction or commercial use requires permission.
 <!-- [2026-03-05T09:00:11] docs(readme): update project documentation and overview -->
 <!-- [2026-03-07T13:19:07] docs(readme): update project documentation and overview -->
 <!-- [2026-03-20T12:42:51] style: improve formatting and badge alignment -->
+<!-- [2026-04-26T15:49:35] style: improve formatting and badge alignment -->
