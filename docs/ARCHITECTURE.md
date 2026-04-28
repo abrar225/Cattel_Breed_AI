@@ -8,3 +8,4 @@
 - [2026-07-22T12:22:38] docs(architecture): clarify module design and system layout
 <!-- [2024-11-12T20:10:11] docs: update system architecture details -->
 <!-- [2025-06-21T16:39:42] docs: update system architecture details -->
+<!-- [2026-04-28T11:40:45] docs: update system architecture details -->
