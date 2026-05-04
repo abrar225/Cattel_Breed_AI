@@ -62,3 +62,4 @@
 - [2026-04-28T20:14:37] style: improve code formatting and comments
 - [2026-04-29T12:48:56] fix: correct minor typo in logging output
 - [2026-04-29T18:43:12] fix: correct minor typo in logging output
+- [2026-05-04T19:53:18] docs: clarify API usage examples in documentation
