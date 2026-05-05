@@ -63,3 +63,4 @@
 - [2026-04-29T12:48:56] fix: correct minor typo in logging output
 - [2026-04-29T18:43:12] fix: correct minor typo in logging output
 - [2026-05-04T19:53:18] docs: clarify API usage examples in documentation
+- [2026-05-05T18:21:47] perf: improve execution speed in hot paths
