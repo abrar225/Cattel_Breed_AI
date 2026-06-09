@@ -70,3 +70,4 @@
 - [2026-05-29T12:19:31] test: expand test coverage for utility modules
 - [2026-06-08T14:30:51] chore: update dependencies and environment config
 - [2026-06-09T10:25:28] chore: update dependencies and environment config
+- [2026-06-09T20:15:56] feat: add utility methods for state management
