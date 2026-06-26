@@ -75,3 +75,4 @@
 - [2026-06-12T20:17:51] fix: correct minor typo in logging output
 - [2026-06-13T20:36:54] fix: correct minor typo in logging output
 - [2026-06-26T11:22:52] fix: resolve edge cases in parameter validation
+- [2026-06-26T14:46:23] style: improve code formatting and comments
