@@ -165,3 +165,4 @@ Reproduction or commercial use requires permission.
 - [2026-04-17T14:05:45] docs(readme): improve documentation notes and usage guidelines
 - [2026-05-12T11:01:18] docs(readme): improve documentation notes and usage guidelines
 - [2026-06-29T22:26:37] style: enhance README formatting and badge definitions
+- [2026-06-30T18:47:51] style: enhance README formatting and badge definitions
