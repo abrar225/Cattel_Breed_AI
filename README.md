@@ -170,3 +170,4 @@ Reproduction or commercial use requires permission.
 <!-- [2026-05-13T20:57:59] style: improve formatting and badge alignment -->
 <!-- [2026-06-02T13:42:47] docs(readme): update project documentation and overview -->
 <!-- [2026-06-26T11:14:13] style: improve formatting and badge alignment -->
+<!-- [2026-07-03T10:05:23] docs(readme): update project documentation and overview -->
