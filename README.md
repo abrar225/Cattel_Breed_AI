@@ -172,3 +172,4 @@ Reproduction or commercial use requires permission.
 <!-- [2026-06-26T11:14:13] style: improve formatting and badge alignment -->
 <!-- [2026-07-03T10:05:23] docs(readme): update project documentation and overview -->
 <!-- [2026-07-08T18:55:57] docs(readme): update project documentation and overview -->
+<!-- [2026-08-05T21:49:09] docs(readme): update project documentation and overview -->
